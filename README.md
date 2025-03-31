@@ -29,4 +29,4 @@ MANIA: An automated botting system for Maplestory
 - **Screenshot Requests** - Check on your character and read chat instantly from your phone.
 
 Up-to-date download links, pricing, and documentation are in the Discord.
-[Join the Discord server here](http://discord.gg/ekMKSsNAjC)
+## [Join the Discord server here](http://discord.gg/ekMKSsNAjC)
