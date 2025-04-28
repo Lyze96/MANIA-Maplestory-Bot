@@ -28,6 +28,9 @@ MANIA: An automated botting system for Maplestory
 - **Remote Commands** - Control MANIA and send keypresses through simple Telegram messages.
 - **Screenshot Requests** - Check on your character and read chat instantly from your phone.
 
-Up-to-date download links, pricing, and documentation are in the Discord.
-Message me @Lyze for a free 7-day trial.
-## [Join the Discord server here](http://discord.gg/ekMKSsNAjC)
+Registration and subscription are through the website.
+All subscriptions come with a 7-day free trial.
+https://trymania.com/
+
+Guides and documentation are in the Discord.
+http://discord.gg/ekMKSsNAjC
