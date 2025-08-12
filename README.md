@@ -29,8 +29,4 @@ MANIA: An automated botting system for Maplestory
 - **Screenshot Requests** - Check on your character and read chat instantly from your phone.
 
 Registration and subscription are through the website.
-All subscriptions come with a 7-day free trial.
 https://trymania.com/
-
-Guides and documentation are in the Discord.
-http://discord.gg/ekMKSsNAjC
